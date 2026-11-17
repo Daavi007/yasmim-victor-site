@@ -39,4 +39,4 @@ Site de casamento elegante e responsivo desenvolvido para Yasmim & Victor, com c
 
 ## Autor
 
-Desenvolvido por **David** - [Gennessis Engenharia](https://github.com/Daavi007)
+Desenvolvido por **David** -(https://github.com/Daavi007)
